@@ -25,7 +25,7 @@ author:
   avatar           : "Cong_Liu.png"
   name             : "Cong Liu"
   pronouns         : # example: "she/her"  
-  bio              : "Shandong University of Technology"
+  # bio              : "Shandong University of Technology"
   location         : "Zibo, China"
   employer         : "Shandong University of Technology"
   uri              : # URL
