@@ -17,9 +17,26 @@ Education
 
 Work experience
 ======
-* October 2019 - Present: Professor
+* September 2023 - Present: Part-time Researcher
+  * Inspur Data Technology Co., Ltd., Jinan
+* May 2022 - Present: Chief Consultant on Process Mining
+  * RPA China Research Institute
+* January 2022 - Present: Associate Professor (Level-2)
   * Shandong University of Technology
-  
+* October 2021 - Present: Ph.D. Supervisor
+  * School of Electrical Engineering, Shandong University of Technology
+* October 2021 - Present: Adjunct Ph.D. Supervisor
+  * College of Computer Science and Engineering, Shandong University of Science and Technology
+* September 2021 - September 2023: Special Expert
+  * Intelligent Management Center, Shandong Hi-Speed Group Co., Ltd.
+* August 2021 - Present: Chief Technical Consultant
+  * Beijing Fande Technology Co., Ltd.
+* April 2021 - Present: Technical Consultant
+  * Shenzhen Jiecheng Heli Technology Co., Ltd.
+* January 2020 - Present: Adjunct Master Supervisor
+  * College of Electronic Information Engineering, Shandong University of Science and Technology
+* October 2019 - Present: Distinguished Professor (Level-4), Master Supervisor
+  * School of Computer Science and Technology, Shandong University of Technology
 Professional Services
 ======
 * Conference Program Committee Member/Reviewer
