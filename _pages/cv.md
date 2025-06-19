@@ -37,6 +37,7 @@ Work experience
   * College of Electronic Information Engineering, Shandong University of Science and Technology
 * October 2019 - Present: Distinguished Professor (Level-4), Master Supervisor
   * School of Computer Science and Technology, Shandong University of Technology
+
 Professional Services
 ======
 * Conference Program Committee Member/Reviewer
@@ -78,6 +79,7 @@ Professional Services
   * 3rd International Conference on Computer and Communications [2017]
   * 2nd International Conference on Electronics, Electrical Engineering and Information Science [2016]
   * 1st Big Software on the Run Winter School [2016]
+
 * Journal reviewer
   * Computers in Industry [2024 - Present]
   * Information Sciences [2020 - Present]
